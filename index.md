@@ -5,3 +5,5 @@
 ```
 $ git init
 ```
+- [ ] This is a task.
+- [ ] This is a task.
